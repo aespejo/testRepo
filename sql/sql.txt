@@ -6,4 +6,6 @@ WHERE
 	name LIKE "adsasdasd%"
 	AND unit LIKE "asdasd%"
 	AND data
+	AND item
+	AND code
 
