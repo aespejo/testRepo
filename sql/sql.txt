@@ -1,0 +1,8 @@
+SELECT 
+	* 
+FROM 
+	t_products 
+WHERE 
+	name LIKE "adsasdasd%"
+
+
