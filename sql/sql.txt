@@ -9,4 +9,7 @@ WHERE
 	AND item
 	AND code
 	AND id
+	AND price
+
+
 
