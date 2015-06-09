@@ -2,14 +2,11 @@ SELECT
 	* 
 FROM 
 	t_products 
+	LEFT JOIN t_units ON t_products.idUnit = t_units.id
 WHERE							 
 	name LIKE "adsasdasd%"
 	AND unit LIKE "asdasd%"
 	AND data
 	AND item
 	AND code
-	AND id
-	AND price
-
-
 
