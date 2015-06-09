@@ -2,7 +2,8 @@ SELECT
 	* 
 FROM 
 	t_products 
-WHERE 
+WHERE							 
 	name LIKE "adsasdasd%"
-
+	AND unit LIKE "asdasd%"
+	AND data
 
