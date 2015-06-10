@@ -15,8 +15,7 @@ Yow Alvin
 Yow Alvin
 Yow AEspejo
 Yow Aespejo
-<<<<<<< HEAD
+HEAD
 Yow aespejo
-=======
+
 Yow espejo alvin
->>>>>>> Added espejo alvin in the last line of cat.txt file
